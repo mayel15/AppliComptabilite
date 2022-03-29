@@ -1,6 +1,6 @@
 package appli;
 
-/**Classe Entreprise
+/**
  * 
  * @author mayel
  *
@@ -71,7 +71,7 @@ public class Produit {
 		 quantite = newQuantite;
 	}
 	
-	/** redefinition de toString pour afficher les caractéristiques du client */
+	/** redefinition de toString pour afficher les caractÃ©ristiques du client */
 	public String toString() {
 		return "Libelle Produit: " + libelle + "\nQuantite : " + quantite 
 				+ "\nPrix unitaire : " + prixUnitaire + "\nDate: " + date 
