@@ -16,5 +16,5 @@ Classes :
 -Ventes : Attributs (produit ou vente de type arraylist) ; 1 constructeur ; Méthodes (Calcul totalventes ) 
 -Depenses : Attributs ( produit ou depense de type arraylist) ; 1 constructeur ; Méthodes (Calcul Tot, toString)
 
-A revoir : Pas très claire dans ma tête/ -Etats Financiers : Méthodes (Marge commerciale, Chiffres d’affaires, Valeur ajoutées, EBN, … )
+A revoir : / -Etats Financiers : Méthodes (Marge commerciale, Chiffres d’affaires, Valeur ajoutées, EBN, … )
 La formule correspond à : Calcul EBE = CA (HT) – achats de marchandises (montant HT) – charges externes (montant HT) – impôts et taxes – coût de la masse salariale (salaires et charges sociales) + subventions d'exploitation.
